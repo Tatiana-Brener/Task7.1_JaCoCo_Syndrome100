@@ -52,7 +52,7 @@
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
-                                            <value>COVEREDCOUNT</value>
+                                            <value>COVEREDRATIO</value>
                                             <minimum>1.0</minimum>
                                         </limit>
                                     </limits>
